@@ -1,0 +1,15 @@
+Source: clustergit
+Section: vcs
+Priority: optional
+Maintainer: Michael Nagel <ubuntu@nailor.devzero.de>
+Build-Depends: debhelper (>= 7.0.50~), python-support, python (>= 2.4)
+Standards-Version: 3.9.2
+Homepage: https://github.com/MikePearce/Git-Status
+
+Package: clustergit
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}
+Description: run git commands on multiple clones/repositories
+ clustergits allows one to run git commands like status, push or pull on
+ multiple clones/repositories at a time, and displays the result for each
+ repository.

@@ -1,0 +1,11 @@
+clustergit (0-2) unstable; urgency=low
+
+  * Improve packaging.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 04:57:10 +0200
+
+clustergit (0-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 03:10:59 +0200

@@ -1,0 +1,12 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: git_status
+Source: <https://github.com/MikePearce/Git-Status>
+
+Files: *
+Copyright: 2010 Mike Pearce <mike@mikepearce.net>
+           2010 catchamonkey <chris@sedlmayr.co.uk>
+License: Mike Pearce: "Feel free to use it how you like, no licence required." catchamonkey: "I guess whatever the original show_status's license is would apply to my patches. Other than that, I consider my additions to be public domain-ish or 2-clause BSD."
+
+Files: debian/*
+Copyright: 2011 Michael Nagel <ubuntu@nailor.devzero.de>
+License: donated into the Public Domain.
