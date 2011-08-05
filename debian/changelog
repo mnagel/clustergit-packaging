@@ -1,3 +1,10 @@
+clustergit (3-1) unstable; urgency=low
+
+  * New upstream release.
+  * Fix missing dependency on git.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 18:42:49 +0200
+
 clustergit (0-2+gitbuildpackage2) unstable; urgency=low
 
   * Update homepage link.
