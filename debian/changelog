@@ -1,3 +1,9 @@
+clustergit (5-1) unstable; urgency=low
+
+  * Fix upstream version name again (make it numeric).
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 19:26:45 +0200
+
 clustergit (v3-1) unstable; urgency=low
 
   * Fix upstream version name.
