@@ -1,3 +1,9 @@
+clustergit (v3-1) unstable; urgency=low
+
+  * Fix upstream version name.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 19:02:23 +0200
+
 clustergit (3-1) unstable; urgency=low
 
   * New upstream release.
