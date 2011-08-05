@@ -1,3 +1,9 @@
+clustergit (0-2+gitbuildpackage2) unstable; urgency=low
+
+  * Update homepage link.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 06:05:49 +0200
+
 clustergit (0-2+gitbuildpackage) unstable; urgency=low
 
   * Switch packaging to git-buildpackage.
