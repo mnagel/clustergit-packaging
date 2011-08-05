@@ -1,3 +1,9 @@
+clustergit (0-2+gitbuildpackage) unstable; urgency=low
+
+  * Switch packaging to git-buildpackage.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Fri, 05 Aug 2011 05:47:50 +0200
+
 clustergit (0-2) unstable; urgency=low
 
   * Improve packaging.
