@@ -1,3 +1,9 @@
+clustergit (5-2) unstable; urgency=low
+
+  * Re-add readme to package.
+
+ -- Michael Nagel <ubuntu@nailor.devzero.de>  Tue, 09 Aug 2011 17:29:10 +0200
+
 clustergit (5-1) unstable; urgency=low
 
   * Fix upstream version name again (make it numeric).
